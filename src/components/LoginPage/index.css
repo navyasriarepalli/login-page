@@ -1,0 +1,20 @@
+.title-cont {
+  width: 60vw;
+}
+.form-cont {
+  display: flex;
+  flex-direction: column;
+  margin: 3%;
+}
+.tiny {
+  margin: 2%;
+}
+.btn-add {
+  background-color: blue;
+  height: 5vh;
+  width: 15vw;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-size: 15px;
+}
